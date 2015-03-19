@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Blah</string>
+    <string name="app_name">Kernel Tweek</string>
+    <string name="usbLabel">Enable Fast Charge</string>
+    <string name="audio">Enable High Performance Audio</string>
+    <string name="charge">Battery Charging Limit</string>
+    <string name="setonboot">Set on Boot</string>
+
+</resources>
